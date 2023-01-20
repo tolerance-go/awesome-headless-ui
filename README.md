@@ -4,6 +4,9 @@
 
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [code](https://github.com/timolins/react-hot-toast)
 
+## table
+
+- [table](https://tanstack.com/table/v8) - [code](https://github.com/TanStack/table)
 
 ## framework
 
