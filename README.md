@@ -30,8 +30,13 @@
 
 - [rci](https://github.com/leonardodino/rci) - [examples](https://codesandbox.io/s/rci-codeinput-812up?file=/src/Example.tsx) - 🔢 better code inputs for react/web
 
-## state management
+## form
 
 - [form](https://github.com/TanStack/form) - ⚛️ Hooks for managing form state and validation in React
 - [react-hook-form](https://react-hook-form.com/) - [code](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+- [@hookform/error-message](https://github.com/react-hook-form/error-message) - 📋 Error message component
+
+
+## router
+
 - [router](https://tanstack.com/router/v1) - [code](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
